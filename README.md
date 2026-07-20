@@ -19,7 +19,7 @@ I'm a Public Health Professional transitioning into Software Engineering. I'm pa
 
 ## 🛠️ Current Projects
 
-- Leadway ERP
+- Leadway Advertising ERP
 - AI-Powered Public Health Platform
 - Power BI Dashboards
 - ERP System Architecture
