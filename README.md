@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Esther 👋
 
-<!--
-**Esther792/Esther792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub
 
-Here are some ideas to get you started:
+I am a Public Health Professional transitioning into Software Engineering. I am passionate about building ERP systems, AI-powered solutions, and data-driven applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Software Engineering
+- ERP Development
+- Google Apps Script
+- JavaScript
+- HTML & CSS
+- Python
+- SQL
+- Power BI
+- Tableau
+- Git & GitHub
+
+## 🛠️ Current Projects
+
+- ERP
+- AI-Powered Public Health Platform
+- Power BI Dashboards
+- ERP System Architecture
+
+## 🎯 My Goals
+
+- Become a Full Stack ERP Developer
+- Build enterprise software for African businesses
+- Develop AI solutions for healthcare and public health
+- Contribute to open source projects
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/omobolanle-adelekun-b7634521a
+
+Thanks for visiting my profile
