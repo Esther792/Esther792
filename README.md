@@ -2,7 +2,7 @@
 
 Welcome to my GitHub
 
-I am a Public Health Professional transitioning into Software Engineering. I am passionate about building ERP systems, AI-powered solutions, and data-driven applications that solve real-world problems.
+I'm a Public Health Professional transitioning into Software Engineering. I'm passionate about building ERP systems, AI-powered healthcare solutions, and data-driven applications that solve real-world problems.
 
 ## 🚀 Currently Learning
 
@@ -19,7 +19,7 @@ I am a Public Health Professional transitioning into Software Engineering. I am 
 
 ## 🛠️ Current Projects
 
-- ERP
+- Leadway ERP
 - AI-Powered Public Health Platform
 - Power BI Dashboards
 - ERP System Architecture
@@ -35,4 +35,4 @@ I am a Public Health Professional transitioning into Software Engineering. I am 
 
 - LinkedIn: www.linkedin.com/in/omobolanle-adelekun-b7634521a
 
-Thanks for visiting my profile
+Thanks for visiting my profile ⭐
